@@ -1,0 +1,2 @@
+# 2022_07_30_IFetchFileFromRemoteIntoFolders_TrainingField
+Training field to test 2022_07_30_IFetchFileFromRemoteIntoFolders that allows to create files and folders pointers.
